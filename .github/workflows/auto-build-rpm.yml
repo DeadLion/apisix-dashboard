@@ -1,4 +1,4 @@
-name: Auto Build RPM
+name: Auto Build RPM1
 
 on:
   push:
