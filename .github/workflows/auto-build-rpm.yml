@@ -2,7 +2,7 @@ name: Auto Build RPM
 
 on:
   push:
-    branches: [master, 'release/**']
+    branches: ['rpm/**']
     paths-ignore:
       - 'docs/**'
   pull_request:
